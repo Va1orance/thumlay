@@ -136,7 +136,7 @@ But keep this in mind:
 - FS high-ish usage pinky
 
 
-sht (CN, 0.37%)
+4) sht (CN, 0.37%)
 ```
   q v l g /  j f o u .
   r s h t b  y c a e i
@@ -169,3 +169,23 @@ But keep this in mind:
 - STR is a redirect
 - Some people may mind the high movement LHM column.
 - P and K on the middle columns
+
+
+4) Dhorfen (CN, 0.37%)
+```
+  v q l g /  j f o u ,
+  s r h t b  y c a e i
+  z x m d k  p w ' ; .
+        n                   
+
+MT-QUOTES:
+  Alt: 31.19%
+  Rol: 43.82%   (In/Out: 15.30% | 28.52%)
+  One:  3.07%   (In/Out:  0.37% |  2.70%)
+  Rtl: 46.89%   (In/Out: 15.67% | 31.22%)
+  Red:  2.65%   (Bad:     0.11%)
+
+  SFB: 0.37%
+  SFS: 5.32%    (Red/Alt: 1.37% | 3.96%)
+
+  LH/RH: 48.50% | 51.50%```
