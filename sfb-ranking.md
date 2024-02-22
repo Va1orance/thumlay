@@ -131,5 +131,5 @@ Bonus:
 - STR onehand
 
 But keep this in mind:
-- High-ish usage BNP column
+- BNP column, relatively high movement.
 - FS high-ish usage pinky
