@@ -168,4 +168,4 @@ This recieves **a consideration from me** if you want to use an RSHT homerow.
 But keep this in mind:
 - STR is a redirect
 - Some people may mind the high movement LHM column.
-- P on one of the middle columns
+- P and K on the middle columns
