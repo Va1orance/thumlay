@@ -88,7 +88,7 @@ This receives **a recommendation from me**.
 - Great redirects%
 - Good SFS%
 - Good onehand%
-- Better keymap
+- Good keymap
 - Decent rolls%
 
 Bonus:
