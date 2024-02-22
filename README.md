@@ -15,7 +15,7 @@ The **textual measurements for metric** are as follows:
 Please note, these are in **a single metric**.
 
 For non-percentile based metrics:
-- Perfect -> Bad "Keymap": What a perfect keymap will look like differs from person to person. For this, I will be using:
+- Perfect -> Bad "Keymap": A perfect keymap will look like differs from person to person. For this, I will be using:
 ```
 3.0 2.0 1.5 1.7 3.0 3.0 1.7 1.5 2.0 3.0
 1.2 1.1 1.0 1.0 2.3 2.3 1.0 1.0 1.1 1.2
