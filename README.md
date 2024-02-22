@@ -22,11 +22,19 @@ For non-percentile based metrics:
 ```
 3.0 2.0 1.5 1.7 3.0 3.0 1.7 1.5 2.0 3.0
 1.2 1.1 1.0 1.0 2.3 2.3 1.0 1.0 1.1 1.2
-3.0 2.5 2.3 1.5 2.7 2.7 1.5 2.3 2.5 3.0
-            1.0
+3.0 2.3 2.2 1.6 2.7 2.7 1.6 2.2 2.3 3.0
+            1.0    or   1.0
+Ex.
+z m l g q / f u p j
+r s n t b v o a i h
+x , w d k ' c y . ;
+      e
 ```
 Everybody differs and what I have laid out here is even different from what I personally prefer. However, this layout seems to address most peoples' feelings to within + or - 0.3 so I will leave it at that.
 - Keep in mind this is primarily meant for Colstag (Column-staggered), Ortholinear will be slightly different (punish low-middle more, middle two columns, etc.)
+- Every two keys not placed in the most optimal position will result in the deduction of one textual measurement rank. This means a layout using a C, D, etc. homerow will at max receive a "Excellent" keymap (using them would result in a stack, thus two inoptimal positions).
+- The example is not a real layout, do not use it. It is bad.
+- Layouts can have **one** right or left thumb key.
 
 **Theory and Notes:**
 The system I have come up here is to--at a quick glace--get an idea of the layout. It is not meant to be your final deciding factor. I tried to keep all the bullet point textual measurements objective (hence numerical rankings) as obvious bias would slip into layouts I designed, or liked. That being said, you will find a short summary above and below the texual measurements where I try and highlight the main benefits and negatives of the layout. These **will likely by impacted by bias** so accept them with caution. The "I will recommend this" is a great example. Nevertheless, I feel at least some sort of summary system is needed to compress the hundreds of layouts into a digestible, quick-to-read form.
