@@ -47,7 +47,7 @@ Created by me. Attempts to create with SFB optimization as a priority, while mai
 This receives **a recommendation from me**.
 - Excellent SFB%
 - Very Good redirect% (very due to 0.10% bad)
-- Decent roll%
+- Decent rolls%
 - Decent keymap
 - Decent SFS%
 
@@ -88,7 +88,7 @@ This receives **a recommendation from me**.
 - Good SFS%
 - Good onehand%
 - Better keymap
-- Decent roll%
+- Decent rolls%
 
 Bonus:
 - STR onehand
@@ -99,6 +99,7 @@ But keep in mind:
 
 
 3) snthr (nehcro, 0.35%)
+```
   f b d m q  = y o u ,
   s n t h v  g c a e i
   x p k l j  z w ' / .
@@ -115,5 +116,20 @@ MT-QUOTES:
   SFS: 4.59%    (Red/Alt: 0.71% | 3.89%)
 
   LH/RH: 50.02% | 49.98%
+```
 
-Lots of my layout design choices were influenced by this layout. 
+Lots of my layout design choices were influenced by this layout. The BNP column, HLM column, etc. Overall is a well designed layout with an interesting keymap.
+This recieves **a recommendation from me**.
+- Excellent SFB%
+- Very good SFS%
+- Good redirect% (loses very due to high bad redirects%)
+- Good onehand%
+- Good keymap (interesting*)
+- Decent rolls%
+
+Bonus:
+- STR onehand
+
+But keep this in mind:
+- High-ish usage BNP column
+- FS high-ish usage pinky
