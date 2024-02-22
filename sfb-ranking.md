@@ -136,7 +136,7 @@ But keep this in mind:
 - FS high-ish usage pinky
 
 
-sht (CN) (1 like)
+sht (CN, 0.37%)
 ```
   q v l g /  j f o u .
   r s h t b  y c a e i
