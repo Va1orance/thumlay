@@ -17,6 +17,10 @@ Layout metrics will be ranked via [Cmini] (https://github.com/Apsu/cmini) using 
 
 Please note, these are in **a single metric**. Also these will be taken with *creative liberty* as many metrics are filled with "trash" (not bad or shaming, but just not useful) layouts trying to optimize for that one metric. Leads to the entire leaderboard being filled up, which is partially why I included up to Top 20, for "Excellent". I will likely take one or two of the top metric layouts regardless to demonstrate their overall capabilities.
 
+Two additional textual descriptions exist:
+- Very _: Some metric value results in the layout performing better than "Good" (such as being #31 i.e. best of "Good") but not good enough to be in "Great".
+- Better: Some metric value results in the layout performing better than "Decent" (such as being #41 i.e. best of "Decent") but not good enough to be in "Good".
+
 For non-percentile based metrics:
 - Perfect -> Bad "Keymap": A perfect keymap will look like differs from person to person. For this, I will be using:
 ```
