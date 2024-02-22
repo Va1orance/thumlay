@@ -197,3 +197,10 @@ The recommended layout for those transitioning from [Dhorf] (https://oxey.dev/dh
 - Decent keymap
 - Average SFS%
 
+  But keep this in mind:
+  - Q position (top left ring) wasted.
+  - LHM column has relatively high movement.
+  - K and P in central two columns.
+ 
+    
+
