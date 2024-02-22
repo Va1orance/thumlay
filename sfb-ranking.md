@@ -133,3 +133,23 @@ Bonus:
 But keep this in mind:
 - BNP column, relatively high movement.
 - FS high-ish usage pinky
+
+
+```
+sht (CN) (1 like)
+  q v l g /  j f o u .
+  r s h t b  y c a e i
+  x z m d k  p w ' ; ,
+        n                   
+
+MT-QUOTES:
+  Alt: 31.19%
+  Rol: 43.82%   (In/Out: 16.13% | 27.68%)
+  One:  3.16%   (In/Out:  0.46% |  2.70%)
+  Rtl: 46.98%   (In/Out: 16.60% | 30.38%)
+  Red:  2.55%   (Bad:     0.11%)
+
+  SFB: 0.37%
+  SFS: 5.32%    (Red/Alt: 1.37% | 3.96%)
+
+  LH/RH: 48.50% | 51.50%```
