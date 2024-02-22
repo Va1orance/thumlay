@@ -25,7 +25,7 @@ MT-QUOTES:
 Not intended for usage.
 
 
-2) Snert (CN) (0 likes, 0.34%)
+2) Snert (CN, 0.34%)
 ```
   v p l g q  j f o u ,
   s n h t k  y c a e i
