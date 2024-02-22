@@ -1,5 +1,6 @@
 Layouts here will be ranked by SFBs via [Cmini] (https://github.com/Apsu/cmini) using the MT-Quotes corpus.
 - Currently only one thumb-alpha layouts will be accepted.
+- Layouts must include an apostrophe key and punctuation.
 - LSBs will be accounted for soon.
 
 
