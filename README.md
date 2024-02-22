@@ -10,8 +10,8 @@ The **textual measurements for statistics** are as follows:
 - **Decent:** Top 50 in statistics (overall, excluding multi-thumb)
 - **Average:** Top 100 in statistics (overall, excluding multi-thumb)
 - **Mediocre:** Top 200 in statistics (overall, excluding multi-thumb, layouts featuring this can earn at best "I would **consider this layout**".
-- **Poor**: Top 500 in statistics (would **NOT** recommend this layout flat out, **consider** only for special case due to this statistic)
-- **Bad**: Obvious flaws in design (would **NOT** recommend **NOR** consider this layout due to this statistic)
+- **Poor:** Top 500 in statistics (would **NOT** recommend this layout flat out, **consider** only for special case due to this statistic)
+- **Bad:** Obvious flaws in design (would **NOT** recommend **NOR** consider this layout due to this statistic)
 
 Todo:
 - Single thumb alpha layouts
