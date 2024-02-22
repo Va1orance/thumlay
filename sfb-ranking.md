@@ -1,5 +1,6 @@
 Layouts here will be ranked by SFBs via [Cmini] (https://github.com/Apsu/cmini) using the MT-Quotes corpus.
 - Currently only one thumb-alpha layouts will be accepted.
+- LSBs will be accounted for soon.
 
 
 1) SFminimal (ClemenPine; 0.34%)
@@ -43,12 +44,15 @@ MT-QUOTES:
 ```
 
 Created by me. Attempts to create with SFB optimization as a priority, while maintaining good stats in other areas.
-This receives a **recommendation from me**.
+This receives **a recommendation from me**.
 - Excellent SFB%
 - Very Good redirect% (very due to 0.10% bad)
 - Decent roll%
 - Decent keymap
 - Decent SFS%
+
+Bonus:
+- STR onehand
   
 But keep in mind:
 - TH is an outroll.
@@ -56,7 +60,7 @@ But keep in mind:
 - Some people may mind the high movement LHM column.
 
 
- 3) Stern (CN) (1 like)
+ 3) Stern (CN, 0.35%)
 ```
   v d l f q  / g o u ,
   s t h n p  y c a e i
@@ -76,8 +80,9 @@ MT-QUOTES:
   LH/RH: 49.92% | 50.08%
 ```
 
-Created by me. Currently is my top layout, and *the one I am currently using*.
+Created by me. Currently is **my top** layout, and *the one I am currently using*.
 Compared to Snert, it fixes the TH outroll, and *better* utilizes optimal key positions.
+This receives **a recommendation from me**.
 - Excellent SFB%
 - Great redirects%
 - Good SFS%
@@ -85,4 +90,30 @@ Compared to Snert, it fixes the TH outroll, and *better* utilizes optimal key po
 - Better keymap
 - Decent roll%
 
+Bonus:
+- STR onehand
 
+But keep in mind:
+- K on bottom ring.
+- Some people may mind the high movement LHM column.
+
+
+3) snthr (nehcro, 0.35%)
+  f b d m q  = y o u ,
+  s n t h v  g c a e i
+  x p k l j  z w ' / .
+        r                   
+
+MT-QUOTES:
+  Alt: 33.55%
+  Rol: 42.50%   (In/Out: 25.44% | 17.06%)
+  One:  2.95%   (In/Out:  0.49% |  2.46%)
+  Rtl: 45.45%   (In/Out: 25.92% | 19.52%)
+  Red:  2.42%   (Bad:     0.39%)
+
+  SFB: 0.35%
+  SFS: 4.59%    (Red/Alt: 0.71% | 3.89%)
+
+  LH/RH: 50.02% | 49.98%
+
+Lots of my layout design choices were influenced by this layout. 
