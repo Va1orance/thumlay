@@ -189,3 +189,11 @@ MT-QUOTES:
   SFS: 5.32%    (Red/Alt: 1.37% | 3.96%)
 
   LH/RH: 48.50% | 51.50%```
+```
+The recommended layout for those transitioning from [Dhorf] (https://oxey.dev/dhorf/index.html). It follows nearly the same layout, but with a LHM column. If you prefer a lesser movement setup, simply leave the LR and bring the M to the top.
+- Great SFB%
+- Very good onehand%
+- Good rolls%
+- Decent keymap
+- Average SFS%
+
