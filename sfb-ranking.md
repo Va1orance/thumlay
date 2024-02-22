@@ -1,7 +1,9 @@
-Layouts here will be ranked by SFBs via https://github.com/Apsu/cmini using the MT-Quotes corpus.
+Layouts here will be ranked by SFBs via [Cmini] (https://github.com/Apsu/cmini) using the MT-Quotes corpus.
 - Currently only one thumb-alpha layouts will be accepted.
 
+
 1) SFminimal (ClemenPine; 0.34%)
+```
   x v h w /  q d o y ,
   r s n c p  g t a u i
   z j l f b  k m ' ; .
@@ -16,12 +18,13 @@ MT-QUOTES:
   SFB: 0.34%
   SFS: 7.50%    (Red/Alt: 3.54% | 3.96%)
 
-  LH/RH: 38.24% | 61.76%   
-
+  LH/RH: 38.24% | 61.76%
+```
 Not intended for usage.
 
 
 2) Snert (CN) (0 likes, 0.34%)
+```
   v p l g q  j f o u ,
   s n h t k  y c a e i
   x b m d z  / w ' ; .
@@ -37,16 +40,24 @@ MT-QUOTES:
   SFS: 4.85%    (Red/Alt: 1.17% | 3.68%)
 
   LH/RH: 49.99% | 50.01%
-
+```
 
 Created by me. Attempts to create with SFB optimization as a priority, while maintaining good stats in other areas.
-It has high rolling and low redirects. This receives a **recommendation from me**.
+This receives a **recommendation from me**.
+- Excellent SFB%
+- Very Good redirect% (very due to 0.10% bad)
+- Decent roll%
+- Decent keymap
+- Decent SFS%
+  
 But keep in mind:
 - TH is an outroll.
 - PNB column, relatively high movement.
 - Some people may mind the high movement LHM column.
 
-stern (CN) (1 like)
+
+ 3) Stern (CN) (1 like)
+```
   v d l f q  / g o u ,
   s t h n p  y c a e i
   x k m b z  j w ' ; .
@@ -63,3 +74,15 @@ MT-QUOTES:
   SFS: 4.29%    (Red/Alt: 0.74% | 3.55%)
 
   LH/RH: 49.92% | 50.08%
+```
+
+Created by me. Currently is my top layout, and *the one I am currently using*.
+Compared to Snert, it fixes the TH outroll, and *better* utilizes optimal key positions.
+- Excellent SFB%
+- Great redirects%
+- Good SFS%
+- Good onehand%
+- Better keymap
+- Decent roll%
+
+
