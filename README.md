@@ -1,4 +1,4 @@
-# thumb
+# ThumbKey
 A list of all the thumb alpha utilizing layouts!
 
 The **textual measurements for statistics** are as follows:
