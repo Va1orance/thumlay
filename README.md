@@ -12,7 +12,8 @@ The **textual measurements for metric** are as follows:
 - **Mediocre:** Top 200 in metric (overall, excluding multi-thumb, layouts featuring this can earn at best "I would **consider this layout**".
 - **Poor:** Top 500 in metric (would **NOT** recommend this layout flat out, **consider** only for special case due to this statistic)
 - **Bad:** Obvious flaws in design (would **NOT** recommend **NOR** consider this layout due to this statistic)
-Please note, these are in **a single metric**.
+
+Please note, these are in **a single metric**. Also these will be taken with *creative liberty* as many metrics are filled with "trash" (not bad or shaming, but just not useful) layouts trying to optimize for that one metric. Leads to the entire leaderboard being filled up, which is partially why I included up to Top 20, for "Excellent". I will likely take one or two of the top metric layouts regardless to demonstrate their overall capabilities.
 
 For non-percentile based metrics:
 - Perfect -> Bad "Keymap": A perfect keymap will look like differs from person to person. For this, I will be using:
