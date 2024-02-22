@@ -135,8 +135,8 @@ But keep this in mind:
 - FS high-ish usage pinky
 
 
-```
 sht (CN) (1 like)
+```
   q v l g /  j f o u .
   r s h t b  y c a e i
   x z m d k  p w ' ; ,
@@ -152,4 +152,19 @@ MT-QUOTES:
   SFB: 0.37%
   SFS: 5.32%    (Red/Alt: 1.37% | 3.96%)
 
-  LH/RH: 48.50% | 51.50%```
+  LH/RH: 48.50% | 51.50%
+```
+An RSHT homerow layout featuring a normal-ish keymap. There is likely more optimization available; it was a test layout I was messing around with.
+Although it performs pretty well, I cannot recommend it as there is no reason to use this layout.
+This recieves **a consideration from me** if you want to use an RSHT homerow.
+- Great SFB%
+- Very good onehand%
+- Good redirects%
+- Good rolls%
+- Better keymap
+- Average SFS%
+
+But keep this in mind:
+- STR is a redirect
+- Some people may mind the high movement LHM column.
+- P on one of the middle columns
