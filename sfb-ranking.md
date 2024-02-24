@@ -58,14 +58,15 @@ Bonus:
 But keep in mind:
 - TH is an outroll.
 - PNB column, relatively high movement.
+- BL is a scissor.
 - Some people may mind the high movement LHM column.
 
 
  3) Stern (CN, 0.35%)
 ```
-  v d l f q  / g o u ,
-  s t h n p  y c a e i
-  x k m b z  j w ' ; .
+  v d l p q  / g o u ,
+  s t h n b  y c a e i
+  x k m f z  j w ' ; .
         r                   
 
 MT-QUOTES:
@@ -93,6 +94,7 @@ This receives **a recommendation from me**.
 
 Bonus:
 - STR onehand
+- Well optimized for e200 (no common scissors or SFBs)
 
 But keep in mind:
 - K on bottom ring.
