@@ -199,6 +199,9 @@ The recommended layout for those transitioning from [Dhorf] (https://oxey.dev/dh
 - Decent keymap
 - Average SFS%
 
+Bonus:
+- Well optimized for e200 (no obvious scissors or sfbs)
+
   But keep this in mind:
   - Q position (top left ring) wasted.
   - LHM column has relatively high movement.
